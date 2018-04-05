@@ -1,4 +1,4 @@
-ud989-cat-clicker-ko-starter
+Cat Clicker using Knock out JS
 ============================
 
-ud989-cat-clicker-ko-starter
+This is a toy application implemented from udacity Javascript Design Patterns Course using Knockout Js. 
